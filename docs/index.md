@@ -1,86 +1,59 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Xave Perry 's Resume
 ---
 # Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Computer Science Major at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="perrshan2001@byui.edu">perrshan2001@byui.edu</a>
+| <a href="https://github.com/Perrshan/DS250">Data Science Program</a>
+| <a href="https://www.linkedin.com/in/xave-perry/">LinkedIn</a>
+| <a href="https://github.com/Perrshan/DS250">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2017-2020`
+__Idaho State University__, Pocatello, ID
 
-- Full academic scholarship with 4.0 GPA
+- A.A in General Studies with a 3.89 GPA
 
-`Expected 2029`
+`Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- BS degree in Computer Science with a 3.80 GPA
+- Minor in Computer Engineering
 
+## Skills
 
-## Related Experience
+- Languages: Python, C, C#, MYSQL, Erlang, Javascript, HTML, CSS, Rust
 
-### Internships
+- Software Tools: Visual Studio Code, Tableau, Logism-Evolution, LTspice, STM Cube IDE, Eclipse
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+## School Projects
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Designed a slide puzzle using C and a nucleo-I476 board
+- Created a 4 bit CPU to do basic math and display characters and numbers
+- Made an object-oriented banking program in C# using abstraction, encapsulation,
+inheritance, and polymorphism
+- Created a basic network game than multiple players can connect to a play using Python and TCP connections.
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2023-2024`
+__Costumer Care Representative__, Melaleuca
 
+`2022-2023`
+__Custodian__, Honest Cleaning
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2020-2022`
+__Service Missionary__, Austin, Texas
 
-
+`2018-2020`
+__Team Lead__, Car Wash Express
 
 <!-- ### Footer
 
