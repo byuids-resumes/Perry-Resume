@@ -40,7 +40,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Made an object-oriented banking program in C# using abstraction, encapsulation, inheritance, and polymorphism
 - Created a basic network game that multiple players can connect to a play using Python and TCP connections.
 
-## Service and Work History
+## Work History
 
 `2023-2024`
 __Customer Care Representative__, Melaleuca
@@ -48,11 +48,12 @@ __Customer Care Representative__, Melaleuca
 `2022-2023`
 __Custodian__, Honest Cleaning
 
-`2020-2022`
-__Service Missionary__, Austin, Texas
-
 `2018-2020`
 __Team Lead__, Car Wash Express
+
+## Service
+`2020-2022`
+__Service Missionary__, Austin, Texas
 
 <!-- ### Footer
 
