@@ -29,22 +29,21 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Skills
 
-- Languages: Python, C, C#, MYSQL, Erlang, Javascript, HTML, CSS, Rust
+- Languages: Python, C, C#, MySQL, Erlang, Javascript, HTML, CSS, Rust
 
 - Software Tools: Visual Studio Code, Tableau, Logism-Evolution, LTspice, STM Cube IDE, Eclipse
 
 ## School Projects
 
 - Designed a slide puzzle using C and a nucleo-I476 board
-- Created a 4 bit CPU to do basic math and display characters and numbers
-- Made an object-oriented banking program in C# using abstraction, encapsulation,
-inheritance, and polymorphism
-- Created a basic network game than multiple players can connect to a play using Python and TCP connections.
+- Created a 4-bit CPU to do basic math and display characters and numbers
+- Made an object-oriented banking program in C# using abstraction, encapsulation, inheritance, and polymorphism
+- Created a basic network game that multiple players can connect to a play using Python and TCP connections.
 
 ## Service and Work History
 
 `2023-2024`
-__Costumer Care Representative__, Melaleuca
+__Customer Care Representative__, Melaleuca
 
 `2022-2023`
 __Custodian__, Honest Cleaning
