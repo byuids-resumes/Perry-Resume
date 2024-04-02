@@ -6,7 +6,7 @@ title: Xave Perry 's Resume
 Computer Science Major at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="perrshan2001@byui.edu">My Email</a>
+<a href="perrshan2001@byui.edu">perrshan2001@byui.edu</a>
 | <a href="https://github.com/Perrshan/DS250">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/xave-perry/">LinkedIn</a>
 | <a href="https://github.com/Perrshan/DS250">GitHub</a>
